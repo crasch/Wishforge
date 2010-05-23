@@ -1,0 +1,48 @@
+Edit /etc/httpd/httpd.conf, and add the following line to the bottom: 
+
+AddHandler cgi-script .rb
+
+Add an .htaccess file containing the following text:
+
+Options ExecCGI
+
+The default location for CGI programs on an OS X apache installation is 
+
+/Library/WebServer/CGI-Executables 
+
+Files placed in this directory can be accessed via the following URL:
+
+http://localhost/cgi-bin/file-name
+
+In order for Apache to be able to execute the CGI script, the permissions on the file must be set correctly. For example, open EditRocket and create a file called test.rb with the following contents. Save this file to the /Library/WebServer/CGI-Executables directory.
+
+#!/usr/bin/ruby
+puts "Content-type: text/html"
+puts ""
+puts "<html>"
+puts "<body>"
+puts "Test Ruby Page."
+puts "</body>"
+puts "</html>"
+
+Open a terminal window (Applications -> Utilities -> Terminal). Execute the following command:
+
+cd /Library/WebServer/CGI-Executables
+
+Then execute the following (if prompted, enter your password)
+
+sudo chmod 755 test.rb
+
+You now have a Ruby program, test.rb, saved with the correct permissions in the /Library/WebServer/CGI-Executables directory.
+
+Now, we need to restart the web server to make sure the changes take effect. To restart, do the following:
+
+1. Go to System Preferences -> Sharing View
+
+2. Uncheck the Web Sharing box. Then check the Web Sharing box again. This will start and stop the apache web server.
+
+You can test this page by entering the following in your web browser:
+
+http://localhost/cgi-bin/test.rb
+
+
