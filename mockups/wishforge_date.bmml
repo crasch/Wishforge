@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" measuredW="974" measuredH="597" mockupW="735" mockupH="587">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="229" y="0" w="735" h="587" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.wishforge.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="563" y="231" w="-1" h="-1" measuredW="65" measuredH="28" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="490" y="145" w="-1" h="-1" measuredW="212" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>When%20must%20your%20wish%20be%20fulfilled%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="533" y="182" w="-1" h="-1" measuredW="67" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="606" y="183" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Time%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

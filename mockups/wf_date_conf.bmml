@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" measuredW="974" measuredH="597" mockupW="735" mockupH="587">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="229" y="0" w="735" h="587" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.wishforge.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="436" y="184" w="-1" h="-1" measuredW="82" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20entered%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="533" y="182" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2010-01-01</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="617" y="181" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Time%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="531" y="222" w="-1" h="-1" measuredW="45" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>wf_amount%26bm%3Bwf_amount.bmml%26bm%3Bwf_amount.bmml%26bm%3Bwf_amount.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22302%2C222%2C347%2C250%22%20href%3D%22wf_amount.bmml%22%20alt%3D%22wf_amount%22%20id%3D%2213%22/%3E</map>
+        <text>Yes</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="585" y="222" w="-1" h="-1" measuredW="39" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>wishforge_date%26bm%3Bwishforge_date.bmml%26bm%3Bwishforge_date.bmml%26bm%3Bwishforge_date.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22356%2C222%2C395%2C250%22%20href%3D%22wishforge_date.bmml%22%20alt%3D%22wishforge_date%22%20id%3D%2214%22/%3E</map>
+        <text>No</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="420" y="224" w="98" h="23" measuredW="98" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Is%20this%20correct%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" measuredW="936" measuredH="597" mockupW="735" mockupH="587">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="191" y="0" w="735" h="587" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Pot%20Prize%0Ahttp%3A//www.potprize.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="237" y="98" w="-1" h="-1" measuredW="144" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>What%20is%20the%20Pot%20Prize%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Button" x="237" y="246" w="124" h="38" measuredW="124" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Become%20a%20backer</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Button" x="237" y="299" w="124" h="34" measuredW="86" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buy%20prizes</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Paragraph" x="233" y="134" w="614" h="52" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Pot%20Prize%20is%20distributed%20prize%20that%20pays%20out%20if%20pot%20is%20decriminalized%20at%20the%20Federal%20level%20in%20the%20United%20States.%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="241" y="208" w="441" h="23" measuredW="350" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>To%20learn%20more%20about%20The%20Pot%20Prize%2C%20please%20read%20%5Bthe%20FAQ%5D.</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="237" y="350" w="124" h="34" measuredW="88" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sell%20prizes</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="396" y="359" w="-1" h="-1" measuredW="413" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20you%20already%20own%20some%20prizes%2C%20you%20can%20sell%20them%20to%20someone%20else%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="396" y="302" w="502" h="27" measuredW="467" measuredH="23" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buy%20some%20pot%20prizes%2C%20become%20and%20activist%2C%20and%20make%20money%20if%20pot%20is%20legalized</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="396" y="251" w="502" h="28" measuredW="333" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Click%20this%20link%20if%20you%20want%20to%20sponsor%20some%20pot%20prizes.%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
